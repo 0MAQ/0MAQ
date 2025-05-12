@@ -1,3 +1,5 @@
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=black"/>
+
 <p align="left">Hi, I'm Matheus Azevedo, a Computer Science student. Welcome to my projects – feel free to have a look around!</p>
 <table>
   <tr>
@@ -18,4 +20,4 @@
   <img src="https://img.shields.io/badge/C%23-000000?style=for-the-badge&logo=c-sharp&logoColor=white" alt="C#">
 </p>
 
-       
+ <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=black&section=footer"/>
